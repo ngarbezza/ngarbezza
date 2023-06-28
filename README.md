@@ -14,6 +14,8 @@ My name is Nahuel Garbezza and I like building healthy software.
 
 [![wakatime](https://wakatime.com/badge/user/1881ff3a-ce8d-4da7-9dba-0aa2a11abb7e.svg)](https://wakatime.com/@1881ff3a-ce8d-4da7-9dba-0aa2a11abb7e)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ngarbezza/6c20d521-ed25-4ca1-b33a-2b8e7000d32b.png" /></a>
+
 I'm on [Twitter](https://twitter.com/ngarbezza), [LinkedIn](https://www.linkedin.com/in/nahuelgarbezza/), [Instagram](https://www.instagram.com/ngarbezza/), <a rel="me" href="https://ruby.social/@ngarbezza">Mastodon</a> and other sites that may have the `@ngarbezza` default username 😬.
 
 <!--
